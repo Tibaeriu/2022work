@@ -1,1 +1,1 @@
-
+print("Hai sa incepem!")
