@@ -12,4 +12,6 @@ un alt fel de comment
 a = 4
 b = 10
 print(a+b)
+#casting - declaram variabilele mai in clar
+a1 = 5
 
