@@ -9,4 +9,7 @@ print(x,y)
 """
 un alt fel de comment
 """
+a = 4
+b = 10
+print(a+b)
 
