@@ -6,3 +6,7 @@ print(x,y)
 # comentariul acesta nu influenteaza liniile de comanda
 #z = 3
 #linia de mai sus nu mai declara o variabila
+"""
+un alt fel de comment
+"""
+
